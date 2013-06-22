@@ -1,0 +1,6 @@
+channel: yourChannel
+onlineBroadcast: '&aThe Twitch stream is online :)'
+offlineBroadcast: '&cThe Twitch stream is offline :('
+onlineStatus: '&3The stream is currently &a ONLINE'
+offlineStatus: '&3The stream is currently &cOFFLINE'
+delayInMinutes: 10

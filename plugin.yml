@@ -1,0 +1,10 @@
+name: Twitchy
+version: 1.0
+main: us.compressions.twitchy.Twitchy
+author: Compressions
+description: Twitch plugin.
+
+commands:
+    stream:
+        usage: /<command>
+        description: Status of stream.
